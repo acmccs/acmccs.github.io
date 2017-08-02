@@ -24,9 +24,9 @@ pageNotFoundDetail = "The in-the-middle attacker who is attacking your connectio
     #    email = "evans@virginia.edu"
 
 [params]
-    brand = "ACM CCS 2017"
+    brand = "ACM CCS"
     topline = "ACM Conference on Computer and Communications Security"
-    footline = "<p align=\"center\"><a href=\"https://ccs2017.sigsac.org/\">ACM CCS 2017</a></p>"
+    footline = "<p align=\"center\"><a href=\"https://ccs2017.sigsac.org/\">ACM CCS 2017</a> &middot; Program Chairs' Blog</p>"
     sidebar = "left"
     googleAnalytics = "UA-3775212-1"
 
