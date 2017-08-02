@@ -3,10 +3,12 @@
   
   <url>
     <loc>https://acmccs.github.io/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acmccs.github.io/main/</loc>
+    <loc>https://acmccs.github.io/welcome/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
