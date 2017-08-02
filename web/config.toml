@@ -1,0 +1,49 @@
+baseurl = "https://acmccs.github.io"
+languageCode = "en-us"
+title = "ACM CCS Blog"
+subtitle = "Computer and Communications Security"
+copyright = ""
+theme = "ccs"
+
+paginate = 10
+paginatePath = "page"
+
+pageNotFoundTitle = "Not Found"
+pageNotFoundDetail = "The in-the-middle attacker who is attacking your connection did not anticipate this action. This is most likely a bad link, although it is possible you have found a vulnerability in the Cantor Continuum."
+
+[permalinks]
+    post = "/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "CCS Program Chairs"
+    #    email = "evans@virginia.edu"
+
+[params]
+    brand = "ACM CCS 2017"
+    topline = "ACM Conference on Computer and Communications Security"
+    footline = "<p align=\"center\"><a href=\"https://ccs2017.sigsac.org/\">ACM CCS 2017</a></p>"
+    sidebar = "left"
+    googleAnalytics = "UA-3775212-1"
+
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[blackfriday]
+    angledQuotes = false
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+
+[[menu.footer]]

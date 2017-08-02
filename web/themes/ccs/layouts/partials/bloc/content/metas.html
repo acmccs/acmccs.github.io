@@ -1,0 +1,10 @@
+<div class="metas">
+{{ partial "modules/page/date" . }}
+{{ if .IsPage }}
+  {{ with .Params.author }}
+    &middot; {{ $.Site.Data.Strings.byauthor }} {{ . }}
+  {{ end }}
+  <br>
+  {{ partial "modules/page/tags" . }}
+{{ end }}
+</div>

@@ -1,0 +1,10 @@
+{{ partial "head" . }}
+<section id="main-content" class="container main_content section">
+  <header class="container">
+    {{ partial "bloc/content/h1-title" . }}
+  </header>
+  {{ range .Data.Pages }}
+    {{ .Render "section.li" }}
+  {{ end }}
+</section>
+{{ partial "foot" . }}
