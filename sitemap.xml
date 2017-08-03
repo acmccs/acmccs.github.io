@@ -3,12 +3,29 @@
   
   <url>
     <loc>https://acmccs.github.io/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/welcome/</loc>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acmccs.github.io/welcome/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/institutions/</loc>
   </url>
   
 </urlset>

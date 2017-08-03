@@ -7,15 +7,21 @@ THEME = ccs
 
 MARKDOWN = python3 -m markdown
 BASEDIR = .
+SRCDIR = ~/ccs2017/accepts
 LATEXDIR = $(BASEDIR)/../latex
 DOCSDIR = $(BASEDIR)/content/docs
 PAGEDIR = $(BASEDIR)/content/
 LATEXIFY = python3 $(LATEXDIR)/utils/latexify.py
 
 html:
+	cd $(SRCDIR); python3 process.py
+	cat $(SRCDIR)/papers.top $(SRCDIR)/papers.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/papers.md
+	cat $(SRCDIR)/papers.top $(SRCDIR)/authors.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/authors.md
+	cat $(SRCDIR)/papers.top $(SRCDIR)/institutions.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/institutions.md
 	hugo --theme=$(THEME)
 
 develop:
+	make html
 	hugo server --theme=$(THEME) --buildDrafts --watch
 
 github: html

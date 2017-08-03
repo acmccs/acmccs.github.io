@@ -26,8 +26,7 @@ pageNotFoundDetail = "The in-the-middle attacker who is attacking your connectio
 [params]
     brand = "ACM CCS"
     topline = "ACM Conference on Computer and Communications Security"
-    footline = "<p align=\"center\"><a href=\"https://ccs2017.sigsac.org/\">ACM CCS 2017</a> &middot; Program Chairs' Blog</p>"
-    sidebar = "left"
+    footline = "<p align=\"center\"><a href=\"https://ccs2017.sigsac.org/\">ACM CCS 2017</a> &middot; <a href=\"acmccs.github.io\">Program Chairs' Blog</a></p>"
     googleAnalytics = "UA-3775212-1"
 
     nodate = true
