@@ -9,7 +9,6 @@
   {{ partial "base/metas" . }}
   {{ partial "base/imports" . }}
   {{ partial "head-extra" . }}
-  <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 </head>
 <body{{ with .Site.Params.theme }} class="{{ . }}"{{ end }}>
   <main id="main-wrapper" class="container main_wrapper{{ with .Site.Params.sidebar }}{{ if and ( not ( eq . "" ) ) ( not ( eq . "false" ) ) }} has-sidebar{{ end }}{{ if eq . "right" }} right{{ end }}{{ end }}">
