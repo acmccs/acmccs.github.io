@@ -3,7 +3,7 @@
 title = "CCS 2017 - Institutions"
 author = "CCS PC Chairs"
 +++
-<p align=center><a href="/papers"><b>List of Accepted Papers</b></a> &middot; <a href="/authorss"><b>Authors</b></a></p>
+<p align=center><a href="/papers"><b>List of Accepted Papers</b></a> &middot; <a href="/authors"><b>Authors</b></a></p>
 <p>
 Insitutions affiliated with authors of papers accepted to the 24<sup>th</sup> ACM Conference on Computer and Communications Security
 </p>
