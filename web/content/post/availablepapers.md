@@ -1,5 +1,5 @@
 +++
-date = "03 Aug 2017"
+date = "17 Aug 2017"
 draft = false
 title = "Papers and Artifacts Available"
 author = "David Evans"
