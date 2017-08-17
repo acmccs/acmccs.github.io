@@ -1,11 +1,12 @@
 +++
 date = "03 Aug 2017"
 draft = false
-title = "Accepted Papers"
+title = "Papers and Artifacts Available"
 author = "David Evans"
 slug = "welcome"
 +++
 
-The list of papers accepted to ACM CCS 2017 is now available: [Papers](/papers), [Authors](/authors), [Institutions](/institutions)
-
-Congratulations to all our authors!
+A list of the CCS 2017 papers that are openly available is [now
+posted](/openpapers). (Only a few papers now, but this will grow to
+hopefully include nearly all CCS 2017 papers as we reach the final
+paper deadline on August 29.)
