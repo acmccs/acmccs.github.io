@@ -16,6 +16,7 @@ LATEXIFY = python3 $(LATEXDIR)/utils/latexify.py
 html:
 	cd $(SRCDIR); python3 process.py
 	cat $(SRCDIR)/papers.top $(SRCDIR)/papers.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/papers.md
+	cat $(SRCDIR)/papers.top $(SRCDIR)/openpapers.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/openpapers.md
 	cat $(SRCDIR)/papers.top $(SRCDIR)/authors.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/authors.md
 	cat $(SRCDIR)/papers.top $(SRCDIR)/institutions.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/institutions.md
 	hugo --theme=$(THEME)
