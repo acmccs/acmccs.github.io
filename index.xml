@@ -10,11 +10,23 @@
     <atom:link href="https://acmccs.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Papers and Artifacts Available</title>
-      <link>https://acmccs.github.io/welcome/</link>
+      <title>Accepted Papers</title>
+      <link>https://acmccs.github.io/acceptedpapers/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/welcome/</guid>
+      <guid>https://acmccs.github.io/acceptedpapers/</guid>
+      <description>&lt;p&gt;The list of papers accepted to ACM CCS 2017 is now available: &lt;a href=&#34;https://acmccs.github.io/papers&#34;&gt;Papers&lt;/a&gt;, &lt;a href=&#34;https://acmccs.github.io/authors&#34;&gt;Authors&lt;/a&gt;, &lt;a href=&#34;https://acmccs.github.io/institutions&#34;&gt;Institutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations to all our authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Papers and Artifacts Available</title>
+      <link>https://acmccs.github.io/available/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmccs.github.io/available/</guid>
       <description>&lt;p&gt;A list of the CCS 2017 papers that are openly available is &lt;a href=&#34;https://acmccs.github.io/openpapers&#34;&gt;now
 posted&lt;/a&gt;. (Only a few papers now, but this will grow to
 hopefully include nearly all CCS 2017 papers as we reach the final
