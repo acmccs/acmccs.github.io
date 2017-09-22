@@ -15,6 +15,10 @@ LATEXIFY = python3 $(LATEXDIR)/utils/latexify.py
 
 html:
 	cd $(SRCDIR); python3 process.py
+	cat $(SRCDIR)/papers.top $(SRCDIR)/sessions.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/sessions.md
+	cd $(SRCDIR); for f in session[??].html
+		cat $(SRCDIR)/papers.top $f $(SRCDIR)/papers.bottom > $(PAGEDIR)/$f.md
+		done
 	cat $(SRCDIR)/papers.top $(SRCDIR)/papers.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/papers.md
 	cat $(SRCDIR)/papers.top $(SRCDIR)/openpapers.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/openpapers.md
 	cat $(SRCDIR)/papers.top $(SRCDIR)/artifacts.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/artifacts.md
