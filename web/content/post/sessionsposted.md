@@ -1,5 +1,5 @@
 +++
-date = "17 Aug 2017"
+date = "27 Sep 2017"
 draft = false
 title = "Session Schedule"
 author = "David Evans"
