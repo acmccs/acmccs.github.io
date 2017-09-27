@@ -1,8 +1,8 @@
 +++
-title = "CCS 2017 - Session E2 (Wednesday, 11:00am-12:15pm)"
+title = "CCS 2017 - Session E2"
 author= "CCS PC Chairs"
 +++
 <p>
-<p><div class="hanging">Chaoshun&nbsp;Zuo, Qingchuan&nbsp;Zhao, Zhiqiang&nbsp;Lin. <em>AUTHSCOPE: Towards Automatic Discovery of Vulnerable Access Control in Online Services</em></div></p>
-<p><div class="hanging">Yi&nbsp;Chen, Wei&nbsp;You, Yeonjoon&nbsp;Lee, Kai&nbsp;Chen, XiaoFeng&nbsp;Wang, Wei&nbsp;Zou. <em>Mass Discovery of Android Traffic Imprints through Instantiated Partial Execution</em></div></p>
-<p><div class="hanging">Tongxin&nbsp;Li, Xueqiang&nbsp;Wang, Mingming&nbsp;Zha, Kai&nbsp;Chen, XiaoFeng&nbsp;Wang, Luyi&nbsp;Xing, Xiaolong&nbsp;Bai, Nan&nbsp;Zhang, Xinhui&nbsp;Han. <em>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</em></div></p>
+<h2>Secure Mobile Apps</h2>Wednesday, 11:00am-12:15pm<p><p><div class="hanging">Jie&nbsp;Huang, Oliver&nbsp;Schranz, Sven&nbsp;Bugiel, Michael&nbsp;Backes. <em>The ART of App Compartmentalization: Compiler-based Library Privilege Separation on Stock Android</em></div></p>
+<p><div class="hanging">Lingguang&nbsp;Lei, Yi&nbsp;He, Kun&nbsp;Sun, Jiwu&nbsp;Jing, Yuewu&nbsp;Wang, Qi&nbsp;Li, Jian&nbsp;Weng. <em>Vulnerable Implicit Service: A Revisit</em></div></p>
+<p><div class="hanging">Duc&nbsp;Cuong&nbsp;Nguyen, Dominik&nbsp;Wermke, Yasemin&nbsp;Acar, Michael&nbsp;Backes, Charles&nbsp;Weir, Sascha&nbsp;Fahl. <em>A Stitch in Time: Supporting Android Developers in Writing Secure Code</em></div></p>
