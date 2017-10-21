@@ -23,6 +23,7 @@ html:
 	cat $(SRCDIR)/papers.top $(SRCDIR)/artifacts.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/artifacts.md
 	cat $(SRCDIR)/papers.top $(SRCDIR)/authors.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/authors.md
 	cat $(SRCDIR)/papers.top $(SRCDIR)/institutions.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/institutions.md
+	cat $(SRCDIR)/papers.top $(SRCDIR)/finalists.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/finalists.md
 	hugo --theme=$(THEME)
 
 develop:

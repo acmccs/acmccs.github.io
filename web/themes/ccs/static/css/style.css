@@ -1221,3 +1221,26 @@ span.institution {
 div.header {
   
 }
+
+span.ptitle {
+  background: #E6E6FA;
+  font-weight: 700;
+}
+
+div.bpaper {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+div.pblock {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+div.pextra {
+  padding-top: 12px;
+}
