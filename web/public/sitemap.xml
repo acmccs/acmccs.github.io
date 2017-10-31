@@ -3,7 +3,12 @@
   
   <url>
     <loc>https://acmccs.github.io/</loc>
-    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/available/</loc>
+    <lastmod>2017-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,23 +69,111 @@
   </url>
   
   <url>
+    <loc>https://acmccs.github.io/topic-0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-7/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-8/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-9/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-17/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-18/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-19/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-20/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-21/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-22/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-23/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-24/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topic-25/</loc>
+  </url>
+  
+  <url>
     <loc>https://acmccs.github.io/session-A1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-A2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-A3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-A4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-A5/</loc>
   </url>
   
   <url>
@@ -88,39 +181,7 @@
   </url>
   
   <url>
-    <loc>https://acmccs.github.io/session-B2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-B3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-B4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-B5/</loc>
-  </url>
-  
-  <url>
     <loc>https://acmccs.github.io/session-C1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-C2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-C3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-C4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-C5/</loc>
   </url>
   
   <url>
@@ -128,39 +189,7 @@
   </url>
   
   <url>
-    <loc>https://acmccs.github.io/session-D2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-D3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-D4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-D5/</loc>
-  </url>
-  
-  <url>
     <loc>https://acmccs.github.io/session-E1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-E2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-E3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-E4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-E5/</loc>
   </url>
   
   <url>
@@ -168,39 +197,7 @@
   </url>
   
   <url>
-    <loc>https://acmccs.github.io/session-F2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-F3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-F4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-F5/</loc>
-  </url>
-  
-  <url>
     <loc>https://acmccs.github.io/session-G1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-G2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-G3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-G4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-G5/</loc>
   </url>
   
   <url>
@@ -208,35 +205,7 @@
   </url>
   
   <url>
-    <loc>https://acmccs.github.io/session-H2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-H3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-H4/</loc>
-  </url>
-  
-  <url>
     <loc>https://acmccs.github.io/session-I1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-I2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-I3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-I4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-I5/</loc>
   </url>
   
   <url>
@@ -244,19 +213,47 @@
   </url>
   
   <url>
-    <loc>https://acmccs.github.io/session-J2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-J3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmccs.github.io/session-J4/</loc>
-  </url>
-  
-  <url>
     <loc>https://acmccs.github.io/session-K1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-A2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-B2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-C2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-D2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-E2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-F2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-G2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-H2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-I2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-J2/</loc>
   </url>
   
   <url>
@@ -264,7 +261,87 @@
   </url>
   
   <url>
+    <loc>https://acmccs.github.io/session-A3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-B3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-C3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-D3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-E3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-F3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-G3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-H3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-I3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-J3/</loc>
+  </url>
+  
+  <url>
     <loc>https://acmccs.github.io/session-K3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-A4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-B4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-C4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-D4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-E4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-F4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-G4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-H4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-I4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-J4/</loc>
   </url>
   
   <url>
@@ -272,7 +349,43 @@
   </url>
   
   <url>
+    <loc>https://acmccs.github.io/session-A5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-B5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-C5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-D5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-E5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-F5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-G5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/session-I5/</loc>
+  </url>
+  
+  <url>
     <loc>https://acmccs.github.io/sessions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmccs.github.io/topics/</loc>
   </url>
   
 </urlset>

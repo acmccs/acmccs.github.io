@@ -1,5 +1,5 @@
 +++
-title = "CCS 2017 - Session C4"
+title = "CCS 2017 - Session 4C"
 author= "CCS PC Chairs"
 +++
 <center><a href="/sessions"><b>Sessions</b></a> &middot; <a href="/papers"><b>Papers</b></a></center>

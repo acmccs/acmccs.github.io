@@ -6,8 +6,18 @@
     <description>Recent content in Post-rsses on ACM CCS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://acmccs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Topics Posted</title>
+      <link>https://acmccs.github.io/available/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmccs.github.io/available/</guid>
+      <description>&lt;p&gt;You can now see the papers group by the topics selected by authors: &lt;a href=&#34;https://acmccs.github.io/topics&#34;&gt;Topics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Award Finalists</title>
