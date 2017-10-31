@@ -10,9 +10,21 @@
     <atom:link href="https://acmccs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Topics Posted</title>
+      <title>Welcome Slides</title>
       <link>https://acmccs.github.io/available/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmccs.github.io/available/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;a5ca2b52d1a046d59b1bcc6f7e4ab6b9&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topics Posted</title>
+      <link>https://acmccs.github.io/available/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://acmccs.github.io/available/</guid>
       <description>&lt;p&gt;You can now see the papers group by the topics selected by authors: &lt;a href=&#34;https://acmccs.github.io/topics&#34;&gt;Topics&lt;/a&gt;&lt;/p&gt;
