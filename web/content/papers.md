@@ -4,7 +4,7 @@ title = "CCS 2017 - Accepted Papers"
 author = "CCS PC Chairs"
 +++
 <p>
-The following papers have been accepted to the 24<sup>th</sup> ACM Conference on Computer and Communications Security (151 papers accepted out of 836 submissions).  All papers are available using the [PDF] link.
+The following papers have been accepted to the 24<sup>th</sup> ACM Conference on Computer and Communications Security (151 papers accepted out of 836 submissions).  All papers are available using the [PDF] link. (If the author also posted an open version of the paper, it is available using the [Paper] link.)
 </p>
 <p align=center>
 <a href="/authors"><b>List By Authors</b></a> &middot; <a href="/institutions"><b>Institutions</b></a> &middot; <a href="/fullsessions"><b>Papers by Session</b></a> &middot; <a href="/topics"><b>Papers by Topic</b></a>  &middot; <a href="/finalists"><b>Award Finalists</b></a> &middot; <a href="/openpapers"><b>Available Papers</b></a> &middot; <a href="/artifacts"><b>Artifacts</b></a></p>
