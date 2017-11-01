@@ -6,8 +6,20 @@
     <description>Recent content in Post-rsses on ACM CCS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://acmccs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Papers Posted</title>
+      <link>https://acmccs.github.io/available/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmccs.github.io/available/</guid>
+      <description>&lt;p&gt;Due to the ACM&amp;rsquo;s failure to provide adequate access to the papers
+through &amp;ldquo;OpenTOC&amp;rdquo;, all of the CCS 2017 papers are now available here
+for PDF download with full open access: &lt;a href=&#34;https://acmccs.github.io/papers&#34;&gt;ACM CCS 2017 Papers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome Slides</title>
