@@ -19,7 +19,7 @@
 
 &lt;p&gt;The CCS 2017 Paper Awards have been announced!&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://acmccs.github.io/images/finalists.jpg&#34; width=600&gt;&lt;br&gt;
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://acmccs.github.io/images/finalists.jpg&#34;&gt;&lt;img src=&#34;https://acmccs.github.io/images/finalists.jpg&#34; width=600&gt;&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;&lt;a href=&#34;https://acmccs.github.io/finalists&#34;&gt;Paper Award Finalists&lt;/a&gt;&lt;/b&gt;
 &lt;/center&gt;&lt;/p&gt;
 
@@ -85,6 +85,10 @@ decade.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://cseweb.ucsd.edu/~hovav/papers/s07.html&#34;&gt;&lt;em&gt;The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://acmccs.github.io/papers/geometry.pdf&#34;&gt;[PDF (full version)]&lt;/a&gt; &lt;a href=&#34;https://acmccs.github.io/papers/geometry-ccs07.pdf&#34;&gt;[PDF (CCS 2007 version)]&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;Hovav Shacham&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://acmccs.github.io/images/tot.jpg&#34;&gt;&lt;img src=&#34;https://acmccs.github.io/images/tot.jpg&#34; width=600&gt;&lt;/a&gt;&lt;br&gt;
+Left-to-right: David Evans, &lt;/b&gt;Hovav Shacham&lt;/b&gt;, Tal Malkin, Dongyan Xu
+&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -322,7 +326,7 @@ The following papers have been accepted to the 24&lt;sup&gt;th&lt;/sup&gt; ACM C
 &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://acmccs.github.io/session-H1&#34;&gt;&lt;b&gt;1H: Crypto Attacks&lt;/b&gt;&lt;/a&gt;, Thursday, 9:00-10:30am  (Session chair: Daniel Genkin)&lt;br&gt;&lt;div class=&#34;hanging&#34;&gt;The Return of Coppersmith&#39;s Attack: Practical Factorization of Widely Used RSA Moduli (Matus&amp;nbsp;Nemec, Marek&amp;nbsp;Sys, Petr&amp;nbsp;Svenda, Dusan&amp;nbsp;Klinec, Vashek&amp;nbsp;Matyas) &lt;a href=&#34;https://acmccs.github.io/finalists&#34;&gt;&lt;font color=&#34;#FFD700&#34;&gt;&amp;#9733;&lt;/font&gt;&lt;/a&gt; &lt;a href=&#34;https://acmccs.github.io/papers/p1631-nemecA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://crocs.fi.muni.cz/papers/rsa_ccs17&#34;&gt;[Artifact]&lt;/a&gt;&lt;/div&gt;
 &lt;div class=&#34;hanging&#34;&gt;Algorithm Substitution Attacks from a Steganographic Perspective (Sebastian&amp;nbsp;Berndt, Maciej&amp;nbsp;Liskiewicz) &lt;a href=&#34;https://acmccs.github.io/papers/p1649-berndtA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/1708.06199&#34;&gt;[Paper]&lt;/a&gt; &lt;/div&gt;
 &lt;div class=&#34;hanging&#34;&gt;On the Power of Optical Contactless Probing: Attacking Bitstream Encryption of FPGAs (Shahin&amp;nbsp;Tajik, Heiko&amp;nbsp;Lohrke, Jean-Pierre&amp;nbsp;Seifert, Christian&amp;nbsp;Boit) &lt;a href=&#34;https://acmccs.github.io/finalists&#34;&gt;&lt;font color=&#34;#FFD700&#34;&gt;&amp;#9733;&lt;/font&gt;&lt;/a&gt; &lt;a href=&#34;https://acmccs.github.io/papers/p1661-tajikA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://eprint.iacr.org/2017/822&#34;&gt;[Paper]&lt;/a&gt; &lt;/div&gt;
-&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://acmccs.github.io/session-H2&#34;&gt;&lt;b&gt;2H: Code Reuse Attacks&lt;/b&gt;&lt;/a&gt;, Thursday, 9:00-10:30am  &lt;br&gt;&lt;div class=&#34;hanging&#34;&gt;The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later (Victor&amp;nbsp;van&amp;nbsp;der&amp;nbsp;Veen, Dennis&amp;nbsp;Andriesse, Manolis&amp;nbsp;Stamatogiannakis, Xi&amp;nbsp;Chen, Herbert&amp;nbsp;Bos, Cristiano&amp;nbsp;Giuffrida) &lt;a href=&#34;https://acmccs.github.io/papers/p1675-van-der-veenA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://vvdveen.com/publications/newton.pdf&#34;&gt;[Paper]&lt;/a&gt; &lt;a href=&#34;https://vusec.net/projects/newton&#34;&gt;[Artifact]&lt;/a&gt;&lt;/div&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://acmccs.github.io/session-H2&#34;&gt;&lt;b&gt;2H: Code Reuse Attacks&lt;/b&gt;&lt;/a&gt;, Thursday, 9:00-10:30am  (Session chair: Hovav Shacham (Honorary Session Chair))&lt;br&gt;&lt;div class=&#34;hanging&#34;&gt;The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later (Victor&amp;nbsp;van&amp;nbsp;der&amp;nbsp;Veen, Dennis&amp;nbsp;Andriesse, Manolis&amp;nbsp;Stamatogiannakis, Xi&amp;nbsp;Chen, Herbert&amp;nbsp;Bos, Cristiano&amp;nbsp;Giuffrida) &lt;a href=&#34;https://acmccs.github.io/papers/p1675-van-der-veenA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a href=&#34;https://vvdveen.com/publications/newton.pdf&#34;&gt;[Paper]&lt;/a&gt; &lt;a href=&#34;https://vusec.net/projects/newton&#34;&gt;[Artifact]&lt;/a&gt;&lt;/div&gt;
 &lt;div class=&#34;hanging&#34;&gt;Capturing Malware Propagations with Code Injections and Code-Reuse attacks (David&amp;nbsp;Korczynski, Heng&amp;nbsp;Yin) &lt;a href=&#34;https://acmccs.github.io/papers/p1691-korczynskiA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;/div&gt;
 &lt;div class=&#34;hanging&#34;&gt;Code-reuse attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets (Sebastian&amp;nbsp;Lekies, Krzysztof&amp;nbsp;Kotowicz, Samuel&amp;nbsp;Gro&amp;#xdf;&amp;nbsp;, Eduardo&amp;nbsp;Vela, Martin&amp;nbsp;Johns) &lt;a href=&#34;https://acmccs.github.io/papers/p1709-lekiesA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;/div&gt;
 &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://acmccs.github.io/session-H3&#34;&gt;&lt;b&gt;3H: Web Security&lt;/b&gt;&lt;/a&gt;, Thursday, 9:00-10:30am  (Session chair: Suman Jana)&lt;br&gt;&lt;div class=&#34;hanging&#34;&gt;Tail Attacks on Web Applications (Huasong&amp;nbsp;Shan, Qingyang&amp;nbsp;Wang, Calton&amp;nbsp;Pu) &lt;a href=&#34;https://acmccs.github.io/papers/p1725-shanAemb.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;/div&gt;

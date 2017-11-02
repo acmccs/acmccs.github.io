@@ -8,7 +8,7 @@ slug = "available"
 
 The CCS 2017 Paper Awards have been announced!
 
-<center><img src="/images/finalists.jpg" width=600><br>
+<center><a href="/images/finalists.jpg"><img src="/images/finalists.jpg" width=600></a><br>
 <b><a href="/finalists">Paper Award Finalists</a></b>
 </center>
 
@@ -74,3 +74,7 @@ decade.
 <a href="http://cseweb.ucsd.edu/~hovav/papers/s07.html"><em>The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)</a></em></a><br>
 <a href="/papers/geometry.pdf">[PDF (full version)]</a> <a href="/papers/geometry-ccs07.pdf">[PDF (CCS 2007 version)]</a><br>
 <b>Hovav Shacham</b>
+
+<center><a href="/images/tot.jpg"><img src="/images/tot.jpg" width=600></a><br>
+Left-to-right: David Evans, </b>Hovav Shacham</b>, Tal Malkin, Dongyan Xu
+</center>
