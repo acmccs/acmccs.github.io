@@ -75,6 +75,6 @@ decade.
 <a href="/papers/geometry.pdf">[PDF (full version)]</a> <a href="/papers/geometry-ccs07.pdf">[PDF (CCS 2007 version)]</a><br>
 <b>Hovav Shacham</b>
 
-<center><a href="/images/tot.jpg"><img src="/images/tot.jpg" width=600></a><br>
+<center><a href="/images/tot-2.jpg"><img src="/images/tot-2.jpg" width=600></a><br>
 Left-to-right: David Evans, </b>Hovav Shacham</b>, Tal Malkin, Dongyan Xu
 </center>
