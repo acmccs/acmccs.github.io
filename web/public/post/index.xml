@@ -6,8 +6,87 @@
     <description>Recent content in Post-rsses on ACM CCS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://acmccs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Awards</title>
+      <link>https://acmccs.github.io/available/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmccs.github.io/available/</guid>
+      <description>
+
+&lt;p&gt;The CCS 2017 Paper Awards have been announced!&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://acmccs.github.io/images/finalists.jpg&#34; width=600&gt;&lt;br&gt;
+&lt;b&gt;&lt;a href=&#34;https://acmccs.github.io/finalists&#34;&gt;Paper Award Finalists&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;real-world-impact-award&#34;&gt;Real-World Impact Award&lt;/h2&gt;
+
+&lt;p&gt;This is a newly-created award, never previously awarded by CCS, to
+recognize papers with substantial immediate impact.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Return of Coppersmith&amp;rsquo;s Attack: Practical Factorization of Widely Used RSA Moduli&lt;/em&gt; &lt;a href=&#34;https://acmccs.github.io/papers/p1631-nemecA.pdf&#34;&gt;[PDF]&lt;/a&gt;
+   &lt;a href=&#34;https://crocs.fi.muni.cz/papers/rsa_ccs17&#34;&gt;[Artifact]&lt;/a&gt;
+   &lt;a href=&#34;https://acmccs.github.io/session-H1&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(H1)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Matus&amp;nbsp;Nemec, Marek&amp;nbsp;Sys, Petr&amp;nbsp;Svenda, Dusan&amp;nbsp;Klinec, Vashek&amp;nbsp;Matyas&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/p1313-vanhoefA.pdf&#34;&gt;[PDF]&lt;/a&gt;
+   &lt;a href=&#34;https://papers.mathyvanhoef.com/ccs2017.pdf&#34;&gt;[Paper]&lt;/a&gt;
+   &lt;a href=&#34;https://acmccs.github.io/session-F3&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(F3)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Mathy&amp;nbsp;Vanhoef, Frank&amp;nbsp;Piessens&lt;/p&gt;
+
+&lt;h2 id=&#34;best-paper-award&#34;&gt;Best Paper Award&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Scaling ORAM for Secure Computation&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/p523-doernerA.pdf&#34;&gt;[PDF]&lt;/a&gt;
+   &lt;a href=&#34;https://eprint.iacr.org/2017/827&#34;&gt;[Paper]&lt;/a&gt; &lt;a
+   href=&#34;https://gitlab.com/neucrypt/floram&#34;&gt;[Artifact]&lt;/a&gt; &lt;a
+   href=&#34;https://acmccs.github.io/session-C1&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(C1)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Jack&amp;nbsp;Doerner, abhi&amp;nbsp;shelat&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Better Bounds for Block Cipher Modes of Operation via Nonce-Based Key Derivation&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/p1019-gueronA.pdf&#34;&gt;[PDF]&lt;/a&gt;
+   &lt;a href=&#34;https://eprint.iacr.org/2017/702.pdf&#34;&gt;[Paper]&lt;/a&gt; &lt;a
+   href=&#34;https://acmccs.github.io/session-E1&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(E1)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Shay&amp;nbsp;Gueron, Yehuda&amp;nbsp;Lindell&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;DolphinAttack: Inaudible Voice Commands&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/p103-zhangAemb.pdf&#34;&gt;[PDF]&lt;/a&gt;
+   &lt;a href=&#34;https://arxiv.org/abs/1708.09537&#34;&gt;[Paper]&lt;/a&gt; &lt;a
+   href=&#34;https://acmccs.github.io/session-A3&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(A3)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Guoming&amp;nbsp;Zhang, Chen&amp;nbsp;Yan, Xiaoyu&amp;nbsp;Ji, Tianchen&amp;nbsp;Zhang, Taimin&amp;nbsp;Zhang, Wenyuan&amp;nbsp;Xu&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/p21-wangA.pdf&#34;&gt;[PDF]&lt;/a&gt; &lt;a
+   href=&#34;https://eprint.iacr.org/2017/030&#34;&gt;[Paper]&lt;/a&gt; &lt;a
+   href=&#34;https://github.com/emp-toolkit/&#34;&gt;[Artifact]&lt;/a&gt; &lt;a
+   href=&#34;https://acmccs.github.io/session-A1&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(A1)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Xiao&amp;nbsp;Wang, Samuel&amp;nbsp;Ranellucci, Jonathan&amp;nbsp;Katz&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A Formal Foundation for Secure Remote Execution of Enclaves&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/p2435-subramanyanA.pdf&#34;&gt;[PDF]&lt;/a&gt;
+   &lt;a href=&#34;https://eprint.iacr.org/2017/565&#34;&gt;[Paper]&lt;/a&gt; &lt;a
+   href=&#34;https://github.com/0tcb/TAP&#34;&gt;[Artifact]&lt;/a&gt; &lt;a
+   href=&#34;https://acmccs.github.io/session-K4&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(K4)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
+Pramod&amp;nbsp;Subramanyan, Rohit&amp;nbsp;Sinha,
+   Ilia&amp;nbsp;Lebedev, Srinivas&amp;nbsp;Devadas,
+   Sanjit&amp;nbsp;Seshia&lt;/p&gt;
+
+&lt;h2 id=&#34;ccs-test-of-time-award&#34;&gt;CCS Test-of-Time Award&lt;/h2&gt;
+
+&lt;p&gt;Recognizes papers from CCS ten years prior (CCS 2007) that have had
+the greatest impact on security research and practice over the past
+decade.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&lt;A href=&#34;http://cseweb.ucsd.edu/~hovav/papers/s07.html&#34;&gt;The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)&lt;/a&gt;&lt;/em&gt; &lt;a
+   href=&#34;https://acmccs.github.io/papers/geometry.pdf&#34;&gt;[PDF (full version)]&lt;/a&gt; &lt;a href=&#34;https://acmccs.github.io/papers/geometry-ccs07.pdf&#34;&gt;[PDF (CCS 2007 version)]&lt;/a&gt;
+&lt;br&gt;
+Hovav Shacham&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Papers Posted</title>
