@@ -25,8 +25,7 @@
 
 &lt;h2 id=&#34;real-world-impact-award&#34;&gt;Real-World Impact Award&lt;/h2&gt;
 
-&lt;p&gt;&lt;center&gt;
-This is a newly-created award recognizes papers with substantial
+&lt;p&gt;This is a newly-created award recognizes papers with substantial
 immediate impact.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The Return of Coppersmith&amp;rsquo;s Attack: Practical Factorization of Widely Used RSA Moduli&lt;/em&gt; &lt;a href=&#34;https://acmccs.github.io/papers/p1631-nemecA.pdf&#34;&gt;[PDF]&lt;/a&gt;
@@ -38,13 +37,11 @@ immediate impact.&lt;/p&gt;
    href=&#34;https://acmccs.github.io/papers/p1313-vanhoefA.pdf&#34;&gt;[PDF]&lt;/a&gt;
    &lt;a href=&#34;https://papers.mathyvanhoef.com/ccs2017.pdf&#34;&gt;[Paper]&lt;/a&gt;
    &lt;a href=&#34;https://acmccs.github.io/session-F3&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(F3)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
-&lt;b&gt;Mathy&amp;nbsp;Vanhoef, Frank&amp;nbsp;Piessens&lt;/b&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;b&gt;Mathy&amp;nbsp;Vanhoef, Frank&amp;nbsp;Piessens&lt;/b&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;best-paper-award&#34;&gt;Best Paper Award&lt;/h2&gt;
 
-&lt;p&gt;&lt;center&gt;
-&lt;em&gt;Scaling ORAM for Secure Computation&lt;/em&gt; &lt;a
+&lt;p&gt;&lt;em&gt;Scaling ORAM for Secure Computation&lt;/em&gt; &lt;a
    href=&#34;https://acmccs.github.io/papers/p523-doernerA.pdf&#34;&gt;[PDF]&lt;/a&gt;
    &lt;a href=&#34;https://eprint.iacr.org/2017/827&#34;&gt;[Paper]&lt;/a&gt; &lt;a
    href=&#34;https://gitlab.com/neucrypt/floram&#34;&gt;[Artifact]&lt;/a&gt; &lt;a
@@ -77,8 +74,7 @@ immediate impact.&lt;/p&gt;
    href=&#34;https://acmccs.github.io/session-K4&#34;&gt;&lt;font color=&#34;#777&#34;&gt;(K4)&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;Pramod&amp;nbsp;Subramanyan, Rohit&amp;nbsp;Sinha,
    Ilia&amp;nbsp;Lebedev, Srinivas&amp;nbsp;Devadas,
-   Sanjit&amp;nbsp;Seshia&lt;/b&gt;
-&lt;/center&gt;&lt;/p&gt;
+   Sanjit&amp;nbsp;Seshia&lt;/b&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;ccs-test-of-time-award&#34;&gt;CCS Test-of-Time Award&lt;/h2&gt;
 
@@ -86,11 +82,9 @@ immediate impact.&lt;/p&gt;
 the greatest impact on security research and practice over the past
 decade.&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;
-&lt;a href=&#34;http://cseweb.ucsd.edu/~hovav/papers/s07.html&#34;&gt;&lt;em&gt;The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;http://cseweb.ucsd.edu/~hovav/papers/s07.html&#34;&gt;&lt;em&gt;The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)&lt;/a&gt;&lt;/em&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://acmccs.github.io/papers/geometry.pdf&#34;&gt;[PDF (full version)]&lt;/a&gt; &lt;a href=&#34;https://acmccs.github.io/papers/geometry-ccs07.pdf&#34;&gt;[PDF (CCS 2007 version)]&lt;/a&gt;&lt;br&gt;
-&lt;b&gt;Hovav Shacham&lt;/b&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;b&gt;Hovav Shacham&lt;/b&gt;&lt;/p&gt;
 </description>
     </item>
     

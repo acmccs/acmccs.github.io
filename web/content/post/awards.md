@@ -14,7 +14,6 @@ The CCS 2017 Paper Awards have been announced!
 
 ## Real-World Impact Award
 
-<center>
 This is a newly-created award recognizes papers with substantial
 immediate impact.
 
@@ -28,11 +27,9 @@ immediate impact.
    <a href="https://papers.mathyvanhoef.com/ccs2017.pdf">[Paper]</a>
    <a href="/session-F3"><font color="#777">(F3)</font></a><br>
 <b>Mathy&nbsp;Vanhoef, Frank&nbsp;Piessens</b>
-</center>
 
 ## Best Paper Award
 
-<center>
 <em>Scaling ORAM for Secure Computation</em> <a
    href="https://acmccs.github.io/papers/p523-doernerA.pdf">[PDF]</a>
    <a href="https://eprint.iacr.org/2017/827">[Paper]</a> <a
@@ -67,7 +64,6 @@ immediate impact.
 <b>Pramod&nbsp;Subramanyan, Rohit&nbsp;Sinha,
    Ilia&nbsp;Lebedev, Srinivas&nbsp;Devadas,
    Sanjit&nbsp;Seshia</b>
-</center>
 
 ## CCS Test-of-Time Award
 
@@ -75,8 +71,6 @@ Recognizes papers from CCS ten years prior (CCS 2007) that have had
 the greatest impact on security research and practice over the past
 decade.
 
-<center>
 <a href="http://cseweb.ucsd.edu/~hovav/papers/s07.html"><em>The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)</a></em></a><br>
 <a href="/papers/geometry.pdf">[PDF (full version)]</a> <a href="/papers/geometry-ccs07.pdf">[PDF (CCS 2007 version)]</a><br>
 <b>Hovav Shacham</b>
-</center>
