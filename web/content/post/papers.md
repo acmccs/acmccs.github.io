@@ -3,7 +3,7 @@ date = "01 Nov 2017"
 draft = false
 title = "Papers Posted"
 author = "David Evans"
-slug = "available"
+slug = "papersposted"
 +++
 
 Due to the ACM's failure to provide adequate access to the papers

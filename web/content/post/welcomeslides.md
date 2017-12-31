@@ -3,7 +3,7 @@ date = "31 Oct 2017"
 draft = false
 title = "Welcome Slides"
 author = "David Evans"
-slug = "available"
+slug = "welcomeslides"
 +++
 
 <center>

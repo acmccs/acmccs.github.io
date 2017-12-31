@@ -3,7 +3,7 @@ date = "02 Nov 2017"
 draft = false
 title = "Awards"
 author = "David Evans"
-slug = "available"
+slug = "awards"
 +++
 
 The CCS 2017 Paper Awards have been announced!

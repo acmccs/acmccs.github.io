@@ -3,7 +3,7 @@ date = "17 Aug 2017"
 draft = false
 title = "Papers and Artifacts Available"
 author = "David Evans"
-slug = "available"
+slug = "availablepapers"
 +++
 
 A list of the CCS 2017 papers that are openly available is [now

@@ -11,10 +11,10 @@
     
     <item>
       <title>Awards</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/awards/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/awards/</guid>
       <description>
 
 &lt;p&gt;The CCS 2017 Paper Awards have been announced!&lt;/p&gt;
@@ -94,10 +94,10 @@ Left-to-right: David Evans, &lt;/b&gt;Hovav Shacham&lt;/b&gt;, Tal Malkin, Dongy
     
     <item>
       <title>Papers Posted</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/papersposted/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/papersposted/</guid>
       <description>&lt;p&gt;Due to the ACM&amp;rsquo;s failure to provide adequate access to the papers
 through &amp;ldquo;OpenTOC&amp;rdquo;, all of the CCS 2017 papers are now available here
 for PDF download with full open access: &lt;a href=&#34;https://acmccs.github.io/papers&#34;&gt;ACM CCS 2017 Papers&lt;/a&gt;.&lt;/p&gt;
@@ -106,10 +106,10 @@ for PDF download with full open access: &lt;a href=&#34;https://acmccs.github.io
     
     <item>
       <title>Welcome Slides</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/welcomeslides/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/welcomeslides/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;a5ca2b52d1a046d59b1bcc6f7e4ab6b9&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
 &lt;/center&gt;&lt;/p&gt;
@@ -118,30 +118,30 @@ for PDF download with full open access: &lt;a href=&#34;https://acmccs.github.io
     
     <item>
       <title>Topics Posted</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/topicsposted/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/topicsposted/</guid>
       <description>&lt;p&gt;You can now see the papers group by the topics selected by authors: &lt;a href=&#34;https://acmccs.github.io/topics&#34;&gt;Topics&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Award Finalists</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/finalistsposted/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/finalistsposted/</guid>
       <description>&lt;p&gt;The list of &lt;a href=&#34;https://acmccs.github.io/finalists&#34;&gt;Award Finalists&lt;/a&gt; is now posted. The winners will be announced at the CCS Banquet!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Session Schedule</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/sessionsposted/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/sessionsposted/</guid>
       <description>&lt;p&gt;The schedule of the paper sessions is now available: &lt;a href=&#34;https://acmccs.github.io/sessions&#34;&gt;List of
 Sessions&lt;/a&gt;, &lt;a href=&#34;https://acmccs.github.io/fullsessions&#34;&gt;Full Research Sessions
 Program&lt;/a&gt;.&lt;/p&gt;
@@ -150,10 +150,10 @@ Program&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Papers and Artifacts Available</title>
-      <link>https://acmccs.github.io/available/</link>
+      <link>https://acmccs.github.io/availablepapers/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://acmccs.github.io/available/</guid>
+      <guid>https://acmccs.github.io/availablepapers/</guid>
       <description>&lt;p&gt;A list of the CCS 2017 papers that are openly available is &lt;a href=&#34;https://acmccs.github.io/openpapers&#34;&gt;now
 posted&lt;/a&gt;. (Only a few papers now, but this will grow to
 hopefully include nearly all CCS 2017 papers as we reach the final
